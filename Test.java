@@ -1,5 +1,4 @@
 /* Ahmet TURGUT 150117046 Koray Emre SENEL 150117037
- *
  * */
 
 import javafx.application.Application; 
